@@ -1,2 +1,2 @@
 # Kotlin-Notepad
-Kotlin app practice
+Kotlin app practice from Udacity course
